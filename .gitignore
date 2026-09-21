@@ -2,7 +2,7 @@ node_modules/
 dist/
 .vite/
 .playwright-cli/
-output/playwright/
+output/
 legacy-site/
 фото Танюши/
 промт.txt
