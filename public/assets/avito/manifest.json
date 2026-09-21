@@ -1,0 +1,27 @@
+{
+  "created": "2026-09-21",
+  "format": "PNG",
+  "dimensions": "1080x1350",
+  "sets": [
+    {
+      "id": "marketplace",
+      "title": "Инфографика для маркетплейсов",
+      "files": ["marketplace-01.png", "marketplace-02.png", "marketplace-03.png", "marketplace-04.png", "marketplace-05.png", "marketplace-06.png"]
+    },
+    {
+      "id": "avito",
+      "title": "Карточки товаров и объявления Avito",
+      "files": ["avito-01.png", "avito-02.png", "avito-03.png", "avito-04.png", "avito-05.png", "avito-06.png"]
+    },
+    {
+      "id": "vk",
+      "title": "Оформление сообщества ВКонтакте",
+      "files": ["vk-01.png", "vk-02.png", "vk-03.png", "vk-04.png", "vk-05.png", "vk-06.png"]
+    }
+  ],
+  "provenance": {
+    "portraits": "Фотографии предоставлены пользователем",
+    "product_images": "Созданы встроенным OpenAI image generation tool; промпты зафиксированы в README",
+    "copy_and_layout": "Детерминированная HTML/CSS композиция из tools/creative-studio.html"
+  }
+}

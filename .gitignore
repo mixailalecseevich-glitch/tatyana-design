@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.playwright-cli/
+output/playwright/
+legacy-site/
+фото Танюши/
+промт.txt
+script.js
+*.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.DS_Store
