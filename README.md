@@ -4,6 +4,8 @@
 
 Опубликованный сайт: https://mixailalecseevich-glitch.github.io/tatyana-design/
 
+Короткая ссылка: https://clck.ru/3VxwJE
+
 ## Запуск
 
 ```bash

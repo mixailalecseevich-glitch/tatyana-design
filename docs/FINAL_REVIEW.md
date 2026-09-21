@@ -2,6 +2,10 @@
 
 Дата: 21 сентября 2026 года.
 
+Сайт: https://mixailalecseevich-glitch.github.io/tatyana-design/
+
+Короткая ссылка: https://clck.ru/3VxwJE
+
 ## Что готово
 
 - Адаптивный сайт-портфолио для компьютеров и телефонов.
